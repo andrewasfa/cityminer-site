@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bae00c8.css",
-    "main.js": "/static/js/main.a774ff23.js",
-    "static/js/787.3da7fb42.chunk.js": "/static/js/787.3da7fb42.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9bae00c8.css.map": "/static/css/main.9bae00c8.css.map",
-    "main.a774ff23.js.map": "/static/js/main.a774ff23.js.map",
-    "787.3da7fb42.chunk.js.map": "/static/js/787.3da7fb42.chunk.js.map"
+    "main.css": "/cityminer-site/static/css/main.9bae00c8.css",
+    "main.js": "/cityminer-site/static/js/main.09bdc4e8.js",
+    "static/js/787.3da7fb42.chunk.js": "/cityminer-site/static/js/787.3da7fb42.chunk.js",
+    "static/media/logo.svg": "/cityminer-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cityminer-site/index.html",
+    "main.9bae00c8.css.map": "/cityminer-site/static/css/main.9bae00c8.css.map",
+    "main.09bdc4e8.js.map": "/cityminer-site/static/js/main.09bdc4e8.js.map",
+    "787.3da7fb42.chunk.js.map": "/cityminer-site/static/js/787.3da7fb42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bae00c8.css",
-    "static/js/main.a774ff23.js"
+    "static/js/main.09bdc4e8.js"
   ]
 }
