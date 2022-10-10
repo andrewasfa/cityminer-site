@@ -1,23 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
+import { Player, Controls } from '@lottiefiles/react-lottie-player';
+
+import underConstructionAnimation from './assets/animations/under-construction.json';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='name-placeholder'>CityMiner</div>
+
+      <Player
+        autoplay
+        loop
+        src={underConstructionAnimation}
+        style={{ height: '50vh', width: 'auto', }}
+      >
+
+      </Player>
     </div>
   );
 }
